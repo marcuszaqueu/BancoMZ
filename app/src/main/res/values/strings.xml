@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Banco MZ</string>
+    <string name="poupan_a">Poupança</string>
+    <string name="transferencia">Transferência</string>
+    <string name="fatura">Fatura</string>
+    <string name="saldo">Saldo</string>
+</resources>
