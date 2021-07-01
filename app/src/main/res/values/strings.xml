@@ -4,4 +4,6 @@
     <string name="transferencia">Transferência</string>
     <string name="fatura">Fatura</string>
     <string name="saldo">Saldo</string>
+    <string name="saldo_dispon_vel">Saldo Disponível</string>
+    <string name="titletbSaldo">Saldo</string>
 </resources>

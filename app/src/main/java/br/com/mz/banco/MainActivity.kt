@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         binding.tSaldo.setOnClickListener{
             val intent = Intent(this,Saldo::class.java)
             startActivity(intent)
+            finish()
         }
 
 
